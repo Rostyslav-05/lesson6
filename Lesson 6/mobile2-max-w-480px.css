@@ -1,0 +1,23 @@
+@media screen and (max-width: 480px) {
+  .A {
+    height: 20vh;
+  }
+
+  .B {
+    width: 100vw;
+    height: 40vh;
+  }
+  section {
+    display: block;
+  }
+
+  .C, .D, .E {
+    width: 33.33vw;
+    height: 20vh;
+  }
+
+  .F {
+    height: 20vh;
+    width: 100vw;
+  }
+}

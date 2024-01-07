@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+}
+
+.A {
+  width: 100vw;
+  height: 35vh;
+  background-color: #716B6B;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+}
+
+section {
+  display: flex;
+}
+
+.B {
+  width: 60vw;
+  height: 65vh;
+  background-color: #606060;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+}
+
+.C {
+  width: 40vw;
+  height: 65vh;
+  background-color: #8d8b8b;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+}

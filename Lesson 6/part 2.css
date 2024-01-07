@@ -1,0 +1,51 @@
+body {
+  margin: 0;
+}
+
+.A {
+  width: 100vw;
+  height: 30vh;
+  background-color: #716B6B;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+}
+
+.B {
+  width: 72vw;
+  height: 40vh;
+  background-color: #606060;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+}
+
+.C, .D, .E {
+  width: 24vw;
+  height: 30vh;
+  background-color: #adaaaa;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+}
+
+.group-two {
+  display: flex;
+}
+
+section {
+  display: flex;
+}
+
+.F {
+  width: 28vw;
+  height: 70vh;
+  background-color: #836f6f;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 20px;
+}
